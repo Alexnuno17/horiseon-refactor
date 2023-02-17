@@ -6,6 +6,7 @@
 
 body {
     background-color: #d9dcd6;
+    
 }
 
 .header {
@@ -15,7 +16,7 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.header title {
     display: inline-block;
     font-size: 48px;
 }
@@ -28,9 +29,9 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* .header div ul {
     list-style-type: none;
-}
+} */
 
 .header div ul li {
     display: inline-block;
