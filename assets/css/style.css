@@ -5,7 +5,7 @@
 }
 
 body {
-    /* background-color: #d9dcd6; */
+    background-color: #d9dcd6;
 }
 
 .header {
@@ -19,11 +19,6 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-/* .header h1 .seo {
-    color:#d9dcd6;
-    /* color:red */
-
 
 .header div {
     padding-top: 15px;
